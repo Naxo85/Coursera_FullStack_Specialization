@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,8 @@
   "license": "ISC",
   "homepage": "https://github.com/Naxo85/Coursera_FullStack_Specialization#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
