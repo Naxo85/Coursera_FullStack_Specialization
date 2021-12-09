@@ -15,11 +15,10 @@ Next steps assume you are using git bash (or similar tool) and you are located w
 ## Installing needed packages
 
 - Run npm install for download and install all needed packages from npm repository
-- Run 'npm install -g less@2.7.2' for less (NOTE - command prompt to compile the Less file into a CSS file: 'lessc styles.less styles.css')
 
 ## Development server
 
-- Run 'npm run start' for dev server.
+- Run 'npm start' for dev server.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
