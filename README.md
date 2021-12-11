@@ -10,7 +10,7 @@ Next steps assume you are using git bash (or similar tool) and you are located w
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 1) Bootstrap 4 practice
+# 1) Bootstrap practice
 
 ## Installing needed packages
 
@@ -64,3 +64,21 @@ To deploy a new version:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 2) Angular practice
+
+## Installing needed packages
+
+- Run 'npm install -g @angular/cli@latest'
+- Run 'npm install'
+
+## Development server & Build the project
+
+- Run 'ng serve --o'
+
+## Resources
+
+- Angular:            https://angular.io/
+- Angular Material:   https://material.angular.io/
+- Angular Flex:       https://github.com/angular/flex-layout
+- Typescript:         https://www.typescriptlang.org/
+- HammerJs:           https://hammerjs.github.io/
