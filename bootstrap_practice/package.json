@@ -44,6 +44,7 @@
     "grunt-contrib-uglify": "^5.0.1",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-filerev": "^2.3.1",
+    "grunt-gh-pages": "^4.0.0",
     "grunt-sass": "^3.1.0",
     "grunt-usemin": "^3.1.1",
     "gulp": "^3.9.1",
