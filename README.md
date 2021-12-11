@@ -10,7 +10,7 @@ Next steps assume you are using git bash (or similar tool) and you are located w
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Bootstrap 4 practice
+# 1) Bootstrap 4 practice
 
 ## Installing needed packages
 
@@ -37,9 +37,30 @@ Using Gulp
     - https://github.com/gulpjs/gulp/issues/2324
     - https://stackoverflow.com/a/58394828/2933117
 
+## Deploy the project
+
+Using Github pages the web page has been served here: https://naxo85.github.io/Coursera_FullStack_Specialization/
+
+The deployed version has been stored within gh-pages branch thanks to grunt-gh-pages plugin. 
+
+To deploy a new version:
+- Checkout to develop branch
+- Run 'grunt deploy'
+
+
 ## Resources
 
-- Grunt: https://gruntjs.com/getting-started
-- 
+- NodeJs:           https://nodejs.org/en/
+- Lite-server:      https://github.com/johnpapa/lite-server
+- Bootstrap:        https://getbootstrap.com/
+- Flexbox:          https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Font Awesome:     https://fontawesome.com/
+- Bootstrap social: http://lipis.github.io/bootstrap-social/
+- Jquery:           https://jquery.com/
+- Less:             https://lesscss.org/
+- Sass:             https://sass-lang.com/guide
+- Grunt:            https://gruntjs.com/getting-started
+- Gulp:             https://gulpjs.com/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
